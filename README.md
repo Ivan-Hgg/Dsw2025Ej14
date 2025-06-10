@@ -1,4 +1,10 @@
 # Ejercicio N° 14
+------------------------------------------------------------------
+Alumnos:
+Herrera García Cristian Ivan, 58369, 3k1
+Velazquez Leal Ivan Exequiel, 52807, 3k1
+
+------------------------------------------------------------------
 ## Desarrollo de Software
 ### API Web
 
